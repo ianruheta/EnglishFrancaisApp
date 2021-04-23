@@ -1,6 +1,10 @@
 # EnglishFrancaisApp
 This is a Readme File for my Github repository for English French App. 
 
+## About
+
+This App translate any numbers under a trillion (in text written form) from English to French ones. 
+
 
 ## Configurations
 
